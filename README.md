@@ -7,6 +7,7 @@ using [IMDb API](https://imdb-api.com/).
 - Codable
 - Navigation method: NavigationView
 - Imported poster photos using AsyncImage
+- Local notifications every day at 8:00 PM
 - Safari redirect to trailer
 - Landscape mode UI
 
