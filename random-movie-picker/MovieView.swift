@@ -82,11 +82,11 @@ struct MovieView: View {
                                         let trailer = try decoder.decode(Trailer.self, from: trailerData)
                                         trailerUrl = trailer.videoUrl
                                     } catch {
-                                        print("Not ok")
+                                        print("Error with decoding trailer request")
                                     }
                         }
                     } catch {
-                        print("Not ok")
+                        print("Error with decoding top 250 request")
                     }
                 }
     }
