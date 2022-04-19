@@ -5,6 +5,8 @@ using [IMDb API](https://imdb-api.com/).
 
 - 3 IMDb API requests (Get Top 250 Movies/TV Series & Get Movie/TV Series trailer link) using Alamofire
 - Codable
+- Navigation method: NavigationView
 - Imported poster photos using AsyncImage
 - Safari redirect to trailer
 - Landscape mode UI
+
